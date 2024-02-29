@@ -5,7 +5,7 @@
   <h3 align="center" style="color: blue;">💻 Hello world, I'm Igor Rodrigues 💻</h3>
   <p>:star: I'm Igor, and I'm studying to become a full-stack developer!</p>
   <p>👩🏻‍🎓 Today, I am a student at USJT in the computer science program.</p>
-  <p>💼 I am an intern in the Systems department at Saurus within the J Safra Group.</p>
+  <p>💼 I am an <strong>Analyst Systems Jr.</strong> in the Systems department at Saurus within the J Safra Group.</p>
   <p>🖧 I'm learning the languages:
     <img alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">  
     <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
