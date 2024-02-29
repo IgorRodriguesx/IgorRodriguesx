@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hello World</title>
-  <style>
-    /* Adicione estilos CSS aqui para centralizar elementos conforme necessário */
-  </style>
-</head>
+
 <body>
   <h3 align="center" style="color: blue;">💻 Hello world, I'm Igor Rodrigues 💻</h3>
   <p>:star: I'm Igor, and I'm studying to become a full-stack developer!</p>
